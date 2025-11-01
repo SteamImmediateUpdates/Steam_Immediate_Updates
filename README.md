@@ -63,7 +63,7 @@ can be added to the config.txt file under the comment calling for them (One per 
 
 That's it.
 
-Note: For best results, quite Steam completely before running this script. While the script will still
+Note: For best results, quit Steam completely before running this script. While the script will still
 sucessfully make the necessary changes, Steam will have trouble recognising these changes if they
 are made while it is running.
 
