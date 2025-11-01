@@ -1,10 +1,13 @@
-===========================================================
+
     Steam .acf AutoUpdateBehavior Modifier Script
-===========================================================
+
 
 Version: 1.0.0
+
 Date: 2025-11-02
+
 Author: Some anonymous wannabe coder who leaned on ChatGPT to do most of the coding for this. But it works.
+
 Permissions: I can hardly take credit for this. I suck at coding. Do whatever you like with it. 
 Pretend that you coded it for all I care. Go nuts.
 
@@ -94,5 +97,3 @@ Notes:
       option is set to true in config.txt. (default true)
     - Logs are stored in a 'logs' directory and older logs are cleaned up
       based on the 'max_log_files' configuration. (dafault on, max. 3 logs)
-
-===========================================================
