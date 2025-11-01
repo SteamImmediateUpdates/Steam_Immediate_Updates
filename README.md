@@ -1,6 +1,4 @@
-
-    Steam .acf AutoUpdateBehavior Modifier Script
-
+Steam .acf AutoUpdateBehavior Modifier Script
 
 Version: 1.0.0
 
