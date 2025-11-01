@@ -84,11 +84,15 @@ Requirements:
 
 Usage:
     1. Place the script in a directory.
+    
     2. Make sure Steam is not running for best results. (See above)
+    
     3. Run the script. (You can do this through a terminal or the included Run.bat
     batch file. It will either find or create a configuration file  (config.txt) 
     and automatically scan for Steam's installation directories.
+    
     4. It will modify the "AutoUpdateBehavior" setting in the relevant .acf files.
+    
     5. Optionally, you can enable backups for all the .acf files.
 
 Notes:
