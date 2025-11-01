@@ -88,9 +88,10 @@ Usage:
     
     2. Make sure Steam is not running for best results. (See above)
     
-    3. Run the script. (You can do this through a terminal or the included Run.bat
-    batch file. It will either find or create a configuration file  (config.txt) 
-    and automatically scan for Steam's installation directories.
+    3. Run the script. (You can do this through a terminal or by downloading the 
+    optional Run.bat batch file and copying it to the same directory as the main file
+    and running the batch file.) It will either find or create a configuration file 
+    (config.txt) and automatically scan for Steam's installation directories.
     
     4. It will modify the "AutoUpdateBehavior" setting in the relevant .acf files.
     
