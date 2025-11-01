@@ -83,6 +83,7 @@ Requirements:
     - Dependency check at runtime with routine to acquire uninstalled modules
 
 Usage:
+    
     1. Place the script in a directory.
     
     2. Make sure Steam is not running for best results. (See above)
